@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @isaiaszmendes
 - 👀 I’m interested in teach programming
-- 🌱 I’m currently learning JavaScript, NodeJS, React, NestJS, NextJS.
+- 🌱 My stack: JavaScript, NodeJS, React, NestJS, NextJS
+- 🌱 I’m currently learning Docker, DDD, Vanilla-extract.
 - 📫 How to reach me https://www.linkedin.com/in/isaiaszmendes/
 
 <!---

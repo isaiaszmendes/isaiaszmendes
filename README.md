@@ -2,8 +2,8 @@
 
 ## 👋 Hi, I’m Isaias Mendes!
 
--  I’m currently working at [Agi](https://agi.com.br/)
--  I have an Instagram account focused on sharing technology content [Captalento](https://www.instagram.com/captalento/)
+-  I’m currently working at <a href="https://agi.com.br/" target="_blank">Agi</a>
+-  I have an <a href="https://www.instagram.com/captalento/" target="_blank">Instagram account</a> focused on sharing technology content
 - 👀 I’m interested in teach programming
 - 🌱 My stack: JavaScript, NodeJS, React, NestJS, NextJS
 - 🌱 I’m currently learning Docker, DDD, Vanilla-extract.

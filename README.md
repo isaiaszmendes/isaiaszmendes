@@ -32,17 +32,19 @@
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## Contact
-<a href="https://www.linkedin.com/in/isaiaszmendes/">
+ <a href="https://www.youtube.com/@captalento" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/isaiaszmendes/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="mailto:isaiaszmendes@gmail.com">
+<a href="mailto:isaiaszmendes@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://api.whatsapp.com/send?phone=5511940800020&text=Ol%C3%A1,%20Isaias!%20Vi%20seu%20perfil%20no%20Github,%20vamos%20conversar?">
+<a href="https://api.whatsapp.com/send?phone=5511940800020&text=Ol%C3%A1,%20Isaias!%20Vi%20seu%20perfil%20no%20Github,%20vamos%20conversar?" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
-
-<a href="https://instagram.com/captalento">
+<a href="https://instagram.com/captalento" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
 

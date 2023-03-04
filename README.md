@@ -6,7 +6,7 @@
 -  I have an <a href="https://www.instagram.com/captalento/" target="_blank">Instagram account</a> focused on sharing technology content
 -  Developer since 2018
 - 👀 I’m interested in teach programming
-- 🌱 I’m currently learning Docker, DDD, Vanilla-extract.
+- 🌱 I’m currently learning Docker, DDD, Vanilla-extract, Observability
 - 📫 How to reach me https://www.linkedin.com/in/isaiaszmendes/
 
 ## Stack
